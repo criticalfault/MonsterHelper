@@ -1,0 +1,147 @@
+html
+{
+		background-color: black;
+}
+
+#wrapper
+{
+	border: solid 5px grey;
+	margin: 0 auto;
+	width: 960px;
+	height: 100%;
+	border-radius: 5px;
+}
+
+.nav_button
+{
+	display: inline-block;
+	padding: 5px;
+	text-align: center;
+	background-color: red;
+	cursor: pointer;
+	margin-left: 180px;
+}
+
+header
+{
+	padding: 5px 5px;
+	background-color: grey;
+	margin-bottom: 25px;
+}
+
+.stat_block
+{
+	padding: 5px 5px;
+	background-color: grey;
+	margin-bottom: 25px;
+	border: solid 2px;
+	margin-left: 65px;
+	border-radius: 5px;
+	
+}
+
+.stat_block_line
+{
+	display: inline-block;
+	background-color: grey;
+	margin-bottom: 25px;
+	border: solid 2px;
+	width: 956px;
+}
+
+.card_stack_1
+{
+	position: absolute;
+	text-align: center;
+	border-radius: 20px;
+	margin-left: 15px;
+	display: inline-block;
+	height: 500px;
+	width: 290px;
+	background-color: grey;
+	margin-bottom: 10px;
+}
+
+.card_stack_2
+{
+	float:right;
+	text-align: center;
+	border-radius: 20px;
+	margin-left: 15px;
+	margin-right: 15px;
+	display: inline-block;
+	height: 500px;
+	width: 290px;
+	background-color: grey;
+	margin-bottom: 10px;
+}
+
+#controls
+{
+	margin-right: 25px;
+	margin-bottom: 50px;
+	display: inline-block;
+	height: 500px;
+	width: 300px;
+	background-color: grey;
+}
+
+#setup
+{
+
+}
+input
+{
+	margin-bottom: 20px;
+}
+
+.button
+{
+	margin: 0 auto;
+	margin-bottom: 5px;
+	cursor: pointer;
+	width: 60%;
+	display: list-item;
+	padding: 10px 10px;
+	background-color: red;
+	border-radius: 5px;
+	border: solid 2px black;
+	list-style: none;
+}
+
+.hr 
+{
+	width: 960px;
+	height: 30px;
+	background-color: grey;
+	margin-bottom: 20px;
+}
+
+.hr h2
+{
+	margin-left: 35%;
+}
+
+.Moods_Wounds
+{
+	margin-top: 10px;
+	float: left;
+	text-align: center;
+	border-radius: 20px;
+	margin-left: 15px;
+	display: inline-block;
+	height: 500px;
+	width: 290px;
+	background-color: grey;
+	margin-bottom: 10px;
+}
+
+#deal_critical
+{
+	display: none;
+}
+
+#mood
+{
+	display: none;
+}

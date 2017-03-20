@@ -1,0 +1,90 @@
+[
+	{
+		"Title":"Glorious Soft Belly",
+		"desc":"*Wound<br>If the attacker has any age tokens, they suffer rewind.<br><b>Rewind:</b> Undo the survivor's attack. Restore any wounds or persistent injuries this attack caused to the monster. Place the survivor 5 spaces away from the monster.<br>Critical Wound<br><b>Persistent Injury - Open Wound</b><br>When the monster draws an AI card, roll 1d10. On a result of 1, it suffers a wound.<br>Persistent Injury | Keep in Play"
+		},
+	{
+		"Title":"Hard Beak",
+		"desc":"<b>Super-Dense</b><br>*Reflex<br>The monster's glare pierces the survivor's puny mind, causing explosions of pain.<br>Turn to face the attacker and roll 1d10. If the result is less than the attacker's hunt XP, they suffer 1 brain damage for each age token they have.<br>Critical Wound<br><b>Persistent Injury - Cracked Beak</b>Ignore the effects of Destroy Armor."
+		},
+	{
+		"Title":"Feathered Breast",
+		"desc":"*Wound<br>If the attacker has any age tokens, they suffer rewind.<br><b>Rewind:</b> Undo the survivor's attack. Restore any wounds or persistent injuries this attack caused to the monster. Place the survivor 5 spaces away from the monster.<br>Critical Wound<br>The intense blow causes the monster's heart to skip a beat. The monster is knocked down."
+		},
+	{
+		"Title":"Tail Feathers",
+		"desc":"<b>Impervious</b>The molting feathers fly through the air.<br>Critical Wound<br>Gain 1 <b>Tail Feathers</b> Phoenix resource.<br>Gain 1 <b>Small Feathers</b> Phoenix resource."
+		},
+	{
+		"Title":"Inner Face",
+		"desc":"-2 toughness to wound this location.<br><b>Death Blow</b><br>If the Phoenix is killed at this location, its brain explodes. A shimmering rainbow appears in the spray of blood, revealing secrets of the future.<br>The survivors rejoice and the moment changes them forever.<br>All survivors gain:<br>+1 understanding<br>+1 courage<br>+1 hunt experience<br>+1 weapon proficiency"
+		},
+	{
+		"Title":"Soft Lower gut",
+		"desc":"The underside is pale and soft. -2 toughness to wound this location.<br>Critical Wound<br>The Phoenix's belly opens, spilling a thick foul-smelling ooze. Any adjacent survivors begin to vomit and are knocked down.<br><b>Persistent Injury - Time Leak</b><br>All survivors gain <b>Age Eater</b> while this persistent injury is in play.<br><b>Age Eater:</b> Spend 3 age tokens to gain 1 survival and suffer 1 brain damage.<br>Persistent Injufy | Keep in Play"
+		},
+	{
+		"Title":"Feathered Neck",
+		"desc":"You strike the monster's thick neck.<br>Critical Wound<br>Your blow damages the cervical vertebra crippling the Phoenix's defenses.<br>Gain 1 random Phoenix resource. The Phoenix gains -1 tougness token."
+		},
+	{
+		"Title":"Glorious Primary Eyes",
+		"desc":"<b>First Strike</b><br>(<b>First Strike:</b> You must roll to wound this hit location card first.)<br>The attacker may cancel their attack.<br>*Reflex<br>The monster stares into your future and kills all your children. Attacker suffers the <b>destroyed genitals<b> severe waist injury.<br>Critical Wound<br>The Phoenix gains -2 accuracy tokens.<br>Persistent Injury | Keep in Play"
+		},
+	{
+		"Title":"Time Stop",
+		"desc":"<b>TRAP! - Reshuffle Hit Location Deck</b><br>The survivors are frozen in time.<br>All survivors are <b>doomed</b><br>They cannot <b>block</b> or use <b>fighting arts</b>.<br>The attacker is caught helpless.<br>Perform <b>Basic Action</b>, target the attacker.<br>All attack rolls hit on a 2+, regardless of any modifiers in play."
+		},
+	{
+		"Title":"Tiny Wing Hands",
+		"desc":"<b>Impervious</b><br>You dislodge some parasites from the monster's glorious wing.<br>Critical Wound<br>Gain 1 <b>Small Hand Parasites</b> Phoenix resource."
+		},
+	{
+		"Title":"Glorious Hands",
+		"desc":"You strike the monster's powerful digits.<br>Critical Wound<br>You sever a slender Phoenix finger. Gain 1 <b>Phoenix Finger</b> Phoenix resources.<br>You may spend 2 survival to heroically bellow. if you do, all non-deaf survivors gain +1 courage."
+		},
+	{
+		"Title":"Glorious Head",
+		"desc":"*Wound<br>If the attacker has any age tokens they suffer <b>rewind.</b><br><b>Rewind:</b> Undo the survivor's attack. Restore any wounds or persistent injuries this attack caused to the monster. Place the survivor 5 spaces away from the monster.<br>Critical Wound</b>The trauma causes the monster to blackout momentarily. The monster gains -2 toughness for the rest of this attack. Cancel any Reflexs until the end of the attack."
+		},
+	{
+		"Title":"Feathered Buttocks",
+		"desc":"*Wound<br>If the attacker has any age tokens, they suffer <b>rewind</b>.<br><b>Rewind:</b> Undo the survivor's attack. Restore any wounds or persistent injuries this attack caused to the monster. Place teh survivor 5 spaces away from the monster.<br>Critical Wound<br>Your weapon raises a cloud of small colorful feathers.<br>Gain 2 <b>Small Feathers</b> Phoenix resources."
+		},
+	{
+		"Title":"Glorious Arm Pit",
+		"desc":"*Failure<br>Perform <b>Basic Action</b>, target the attacker.<br>Critical Wound</b>You damage the monster's liver, destroying a unique filtration system.<br><b>Persistent Injury - Ruined Liver</b><br>Replace the following ability definitions.<br><b>Displacement:</b> Attacker is covered in rainbow goo, and gains +1 insanity.<br><b>Materialize:</b> The Phoenix is knocked down.<br>Persistent Injury | Keep in Play"
+		},
+	{
+		"Title":"Feathered Body",
+		"desc":"+2 toughness to wound this location.<br>Critical Wound<br>The terrific attack slams into the Phoenix's massive frame. It hesitates, shocked that a puny human could harm it.<br>Gain 1 random Phoenix resource. The Phoenix staggers. Cancel any Reflexs until the end of the attack."
+		},
+	{
+		"Title":"Glorious Crest",
+		"desc":"Turn to face the attacker.<br>*Wound<br>Perform <b>displacement.</b><br><b>Displacement:</b> Place the Phoenix anywhere along the board edge furthest from the attacker.<br>If the attacker has any age tokens, they may attempt to follow the Phoenix by rolling 1d10. If the result is equal to or less than their Hunt XP, place them in a free space adjacent to the Phoenix after it is placed. Otherwise, cancel all hits now out of range.<br>Critical Wound<br>Gain 1 random Phoenix Resource."
+		},
+	{
+		"Title":"Glorious Handed Feet",
+		"desc":"*Reflex<br>The monster's glare pierces the survivor's puny mind, causing explosions of pain.<br>Turn to face the attacker and roll 1d10. If the result is higher than the attacker's Hunt XP, they suffer 1 brain damage for each age token they have.<br>Critical Wound<br>Gain 1 random Phoenix resource.<br>You may smash apart the monster's foot. In triumph, you may spend 1 survival to howl and encourage all knocked down survivors."
+		},
+	{
+		"Title":"Feathered Back",
+		"desc":"*Wound<br>Perform <b>displacement.</b><br><b>Displacement:</b> Place the Phoenix anywhere along the board edge furthest from the attacker.<br>If the attacker has any age tokens, they may attempt to follow the Phoenix by rolling 1d10. If the result is equal to or less than their Hunt XP, place them in a free space adjacent to the Phoenix after it is placed. Otherwise, cancel all hits now out of range.<br>Critical Wound<br>The Phoenix suffers 1 extra wound and stumbles. Move it 1 space forward."
+		},
+	{
+		"Title":"Glorious Eye",
+		"desc":"*Wound<br>If the attacker has any age tokens, they suffer <b>rewind</b><br><b>Rewind:</b> Undo the survivor's attack. Restore any wounds or persistent injuries this attack caused to the monster. Place the survivor 5 spaces away from the monster.<br>Critical Wound<br>The monster's eye bursts with milky ichor. An adjacent survivor gains +1 insanity and +1 survival. If they are <b>insane</b>, they may spend 3 survival to find deep inspiration in the taste and gain 1 random fighting art."
+	},
+	{
+		"Title":"Glorious Wing Claws",
+		"desc":"*Wound<br>The Phoenix blows everything away.<br><b>Eye of the Storm</b>In the center square of each direction adjacent to the monster. Survivors in the <b>Eye of The Storm</b> gain +1 insanity. All other survivors suffer <b>Knockback 7</b> and <b>Bash</b><br>Critical Wound<br>The Phoenix gains -1 damage token."
+	},
+	{
+		"Title":"Glorious Wing Sphincter",
+		"desc":"*Wound<br>The Phoenix blows everything away.<br><b>Eye of the Storm</b>In the center square of each direction adjacent to the monster. Survivors in the <b>Eye of The Storm</b> gain +1 insanity. All other survivors suffer <b>Knockback 7</b> and <b>Bash</b><br>Critical Wound<br>The putrid sphincter explodes. Gain +1 insanity. If you are <b>insane</b>, the taste is delicious! Gaine +3 survival, too!"
+	},
+	{
+		"Title":"Feathered Wing",
+		"desc":"*Wound<br>The Phoenix blows everything away.<br><b>Eye of the Storm</b>In the center square of each direction adjacent to the monster. Survivors in the <b>Eye of The Storm</b> gain +1 insanity. All other survivors suffer <b>Knockback 7</b> and <b>Bash</b><br>Critical Wound<br>The Phoenix gains -1 movement token." 
+	}
+]

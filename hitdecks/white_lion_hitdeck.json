@@ -1,0 +1,92 @@
+[	
+	{
+		"Title" : "Straining Neck", 
+		"desc" : "You strike at the monsters throat!<br>Critical Wound<br>Roll 1d10 on the table below.<br>1d10 Result<br>1-9 <b>Paralyzed</b> The monster is knocked down.<br>10+ <b>Crushed Windpipe</b> The monster cannot breath. it dies at the end of the next monster turn."
+		},
+	{
+		"Title":"Beast's Ear", 
+		"desc":"*Failure<br>The white lion jumps back!<br>Without turning, move the monster 1 space directly away from the attacker. Cancel all unresolved hits now out of range.<br>Critical Wound<br>Critical Wound<br>The force of the blow damages the white lions ear. It is now partially deaf. <br> White Lion gains -1 Accuracy token." 
+		},
+	{
+		"Title":"Beast's Knee", 
+		"desc":"You hit the White Lion's sturdy knee cap.<br>Critical Wound<br>The White Lion's knee twists unnaturally and shatters.<br>The White Lion gains -1 movement token."
+		},
+	{
+		"Title":"Beast's Chest", 
+		"desc":"*Failure<br>Full move monster forward in a straight line 4 spaces. Cancel all hits now out of range. Any survivors passed over suffer <b>Grab</b><br>Critical Wound<br>You strike at the White Lion's stout heart.<br>Gain 1 random White Lion resource.<br>Roll 1d10. If the result is 10, the White Lion dies instantly."
+		},
+	{
+		"Title":"Fleshy Gut", 
+		"desc":"*Failure<br>The White Lion swats back.<br>Perform <b>Basic Action</b>, target the attacker.<br>Critical Wound<br> The White Lion vomits all over you.<br>It feels awesome!<br>Gain 1 random White Lion resource.<br> Gain +3 insanity."
+		},
+	{
+		"Title":"Beast's Femur", 
+		"desc":"The blow lands on the monster's leg.<br>Critical Wound<br>You bruise the White Lion's femur, crippling its graceful movement.<br> The White Lion gains -1 movement token.<br>Gain 1 random White Lion resource."
+		},
+	{
+		"Title":"Beast's Brow", 
+		"desc":"*Wound<br>Snarling, the monster swats at its attackers.<br>Attacker suffers 1 brain damage.<br>Perform<b>Basic Action</b>, target the attacker.<br>Critical Wound<br>The White Lion's vision is impaired.<br>The White Lion gains -1 Accuracy token."
+		},
+	{
+		"Title":"Beast's Elbow", 
+		"desc":"*Failure<br>Full move monster forward in a straight line 4 spaces. Cancel all hits now out of range. Any survivors passed over suffer <b>Grab</b><br>Critical Wound<br>The monster howls in pain as the blow breaks its elbow with a sickening crunch. Non-deaf survivors gain +3 insanity and may stand if they are knocked down."
+		},
+	{
+		"Title":"Beast's Tail", 
+		"desc":"*Reflex<br>Full move monster forward in a straight line 4 spaces. Cancel all hits now out of range. Any survivors passed over suffer <b>Grab</b><br>Critical Wound<br>The White Lion's tail is destroyed, ruining its finely-tuned balance.<br>The White Lion gains -1 Accuracy token.<br>Gain 1 <b>Lion Tail</b> White Lion resource."
+		},
+	{
+		"Title":"Beast's Back", 
+		"desc":"*Failure<br>Full move monster forward in a straight line 4 spaces. Cancel all hits now out of range. Any survivors passed over suffer <b>Grab</b><br>Critical Wound<br>White Lion gains -1 Accuracy token."
+		},
+	{
+		"Title":"Beast's Scapular Deltoid", 
+		"desc":"*Failure<br>Full move monster forward in a straight line 4 spaces. Cancel all hits now out of range. Any survivors passed over suffer <b>Grab</b><br>Critical Wound<br>The trauma of the impact fractures the White Lion's shoulder.<br>White Lion gains -1 Movement token."
+		},
+	{
+		"Title":"Beast's Flank", 
+		"desc":"*Wound<br>Cats hate this. The monster is VERY upset!<br> Attacker gains the <br>priority target</b> token.<br>Critical Wound<br>White lion is knocked down."
+		},
+	{
+		"Title":"Beast's Ribs", 
+		"desc":"*Wound<br>If the attacker has 3+ understanding, the sound of cracking ribs is encouraging and the attacker gains +1 survival.<br>Critical Wound<br>The force of the blow breaks the White Lion's rib, weakening it.<br>White Lion gains -1 toughness token."
+		},
+	{
+		"Title":"Beast's Tricep", 
+		"desc":"*Failure<br>Perform<b>Basic Action</b>, target the attacker.<br>Critical Wound<br>The torn muscle causes agonizing pain.<br>Discard 1 mood currently in play.<br>The White Lion is knocked down."
+		},
+	{
+		"Title":"Beast's Temple", 
+		"desc":"*Failures<br>Perform<b>Basic Action</b>, target the attacker.<br>Critical Wound<br>Critical Wound<br>The blow wallops the White Lion head, causing shockwaves of blinding pain.<br><b>Persistent Injury</b><br>Whenever the White Lion draws [AI], roll 1d10. If the result is 1 or 2, discard the card and end the monster's turn."
+		},
+	{
+		"Title":"Beast's Heel", 
+		"desc":"You clip the tensed muscles of the hell<br>Critical Wound<br>Your precise attack ruins the monster's straining tendon.<br>The White Lion is knocked down.<br><b>Persistent Injury - Ruptured Tendon</b><br>When the White Lion starts its movement, roll 1d10. On a result of 1, the White Lion is knocked down."
+		},
+	{
+		"Title":"Beast's Maw", 
+		"desc":"*Failure<br>The monster roars triumphantly. Roll 1d10. On a 4+, the attacker suffers 1 brain damage per monster level and is knocked down.<br>Critical Wound<br>The blow destroys the White Lion's jaw.<br><b>Persistent Injury - No Jaw</b><br>Affects some AI cards.<br>Roll 1d10. On the result of a 5+, the White Lion's jaw flies off its face. The attackers gains +1 courage and +1 survival."
+		},
+	{
+		"Title":"Fuzzy Groin", "desc":"You it the monster right in the ding dong.<br>Critical Wound<br>Gain 1 <b>Lion Testes</b> White Lion resource card.<br><b>Persistent Injury - Lost Ding Dong</b><br>Your attack destroys the White Lion's healthy genitals. The monster is livid. The White Lion gains +1 damage token.<br>The attacker permanently gains the <br>priority target</b> token. The White Lion will attack them until the attacker is dead or the White Lion is dead. No exceptions!"
+		},
+	{
+		"Title":"Beast's Paw", 
+		"desc":"*Failure<br>Perform <b>Basic Action</b>, target the attacker. This attack gains +2 damage.<br>Critical Wound<br>Your attack destroys the White Lion's foot. It loses its leverage.<br>The White Lion gains -1 movement token.<br>Gain 1 <b>Lion Claw</b> White Lion resource.<br><b>Persistent Injury - Broken Foot</b><br>Ingore the effects of <b>Grab</b>."
+		},
+	{
+		"Title":"Strange Hand", 
+		"desc":"*Failure<br>Instinctively striking back, the White Lion's oddly human hand dart's forward.<br>Perform <b>Basic Action</b>, target the attacker.<br>Critical Wound<br>You hack off the monster's hand. Spend 1 survival to treasure this moment and gain +1 permanent strength.<br><b>Persistent Injury - Lost Hand</b><br>Affects some AI cards."
+		},
+	{
+		"Title":"Soft Belly", 
+		"desc":"A debilitating blow to the soft belly.<br>Critical Wound<br>Gain 1 random White Lion resource.<br><b>Persistent Injury - Organ Trail</b><br>The White Lion's intestines hang from the wound on its gut, dragging on the floor.<br>At the start of every monster turn, before it draws an AI card, roll 1d10. On a result of 1, the monster suffers 1 wound."
+	},
+	{
+		"Title":"Glorious Mane",
+		"desc":"Impervious<br>Impervious hit locations cannot be wounded. A wound or critical wound will not remove [AI] or defeat the monster.<br>Critical Wound<br>Gain the <b>Shimmering Mane</b> White Lion resource.<br><br>If the attacker is <b>insane</b>, the sheer frustration grants them power. Gain +1 strength token."},
+	{
+		"Title":"Clever Ploy", 
+		"desc":"TRAP! - Reshuffle Hit Location Deck<br>The attacker is caught in the White Lion's ruse and is savegely mauled.<br><br>Attacker is doomed. Perform <b>Basic Action</b>, target the attacker.<br><br><b>Doomed:</b> You may not spend survival until this card is resolved.<br><br>Trap Reminder Rules!<br>A trap cancels all the attacker's hits and ends their attack. When a Trap is drawn, a knocked down monster will stand."
+	}
+]

@@ -1,0 +1,137 @@
+{"Decks":
+        {
+            "Basic": [
+                {
+                    "Title" : "Size up",
+                    "Level" : "(Basic)",
+                    "Desc" : "Pick Target<br>-Random threat, in field of view<br>---------------v----------------<br>Intimdate Target<br>The monster stares down its prey. Turn to face target and roll 1d10. On a roll of a 4+ the target suffers 1 brain damage per monster level and is knocked down."
+                },
+                {   "Title" : "Size up",
+                    "Level" : "(Basic)",
+                    "Desc" : "Pick Target<br>-Random threat, in field of view<br>---------------v----------------<br>Intimdate Target<br>The monster stares down its prey. Turn to face target and roll 1d10. On a roll of a 4+ the target suffers 1 brain damage per monster level and is knocked down."
+                },
+                {
+                    "Title": "Grasp",
+                    "Level": "(Basic)",
+                    "Desc":"Pick Target<br>Closest Knocked down survivor, in range<br>Closest survivor in range<br>no target: Sniff<br>---------------v----------------<br>Move & Attack Target<br>Spd: 1 | Acc: 2+ | Dam: 1 | * After Damage<br>*The white Lion isolates its prey. Full move the White Lion away from all threats. Target suffers grab."
+                },
+                {
+                    "Title": "Grasp",
+                    "Level": "(Basic)",
+                    "Desc":"Pick Target<br>Closest Knocked down survivor, in range<br>Closest survivor in range<br>no target: Sniff<br>---------------v----------------<br>Move & Attack Target<br>Spd: 1 | Acc: 2+ | Dam: 1 | * After Damage<br>*The white Lion isolates its prey. Full move the White Lion away from all threats. Target suffers grab."
+                },
+                {
+                    "Title": "Claw",
+                    "Level": "(Basic)",
+                    "Desc":"Pick Target<br>Closest threat, facing, in range<br>Closest threat, in field of view<br>no target: sniff<br>---------------v----------------<br>Move & Attack Target<br>Spd: 1 | Acc: 2+ | Dam: 1"
+                },
+                {
+                    "Title": "Claw",
+                    "Level": "(Basic)",
+                    "Desc":"Pick Target<br>Closest threat, facing, in range<br>Closest threat, in field of view<br>no target: sniff<br>---------------v----------------<br>Move & Attack Target<br>Spd: 1 | Acc: 2+ | Dam: 1"
+                },
+                {
+                    "Title": "Bat Around",
+                    "Level": "(Basic)",
+                    "Desc":"Pick Target<br>Closest threat, facing, in range<br>Closest threat, in field of view<br>no target: sniff<br>---------------v----------------<br>Move & Attack Target<br>Spd: 2 | Acc: 5+ | Dam: 1 | * After Damage<br>* The monster playfully bats the survivor around. They suffer brain damage equal to the monster's level."
+                },
+                {
+                    "Title": "Power Swat",
+                    "Level": "(Basic)",
+                    "Desc":"Pick Target<br>Closest threat, facing, in range<br>Closest threat, in field of view<br>no target: sniff<br>---------------v----------------<br>Move & Attack Target<br>Spd: 1 | Acc: 2+ | Dam: 2 | * After Damage<br>*Knockback 6: The target is moved 6 spaces in a straight line directly away from the monster."
+                },
+                {
+                    "Title": "Chomp",
+                    "Level": "(Basic)",
+                    "Desc":"Pick Target<br>Closest threat, facing, in range<br>Closest threat, in field of view<br>no target: sniff<br>---------------v----------------<br>Move & Attack Target<br>Spd: 1 | Acc: 2+ | Dam: 1 | * After Hit<br>*Head Hunter: always hits the target's head location.<br>(CritHit) No Jaw: The white lion vomits blood all over itself. Any adjacent survivors gain +1 insanity."
+                },
+                {
+                    "Title": "Revenge",
+                    "Level": "(Basic)",
+                    "Desc":"Pick Target<br>Last survivor to wound, in range<br>Closest threat, in field of view<br>no target: sniff<br>---------------v----------------<br>Move & Attack Target<br>Spd: 2 | Acc: 2+ | Dam: 2 | * After Damage<br>*The white lion isolates its prey. Full move the white lion away from all threats. Target suffer grabs."},
+                {
+                    "Title": "Combo Claw",
+                    "Level": "(Basic)",
+                    "Desc":"Pick Target<br>Closest threat, facing, in range<br>Closest threat, in field of view<br>no target: sniff<br>---------------v----------------<br>Move & Attack Target<br>Spd: 2 | Acc: 4+ | Dam: 1 |<br>---------------v----------------<br>If this attack deals damage more than once, draw (AI)<br>(CritHit) Lost Hand: The white lion stares sadly at its bloody stump. any adjacent survivors gain +1 understanding."
+                },
+                {
+                    "Title": "Vicious Claw",
+                    "Level": "(Basic)",
+                    "Desc":"Pick Target<br>-random survivor, in range<br>no target: sniff<br>---------------v----------------<br>Move & Attack Target<br>Spd: 2 | Acc: 2+ | Dam: 1 | * After damage<br>* Bleed 1: Target gains 1 bleeding token<br><br>(CritHit) Lost Hand: The white lion stares sadly at its bloody stump. any adjacent survivors gain +1 understanding."
+                }
+            ],
+        "Advance":
+            [
+                {
+                    "Title": "Alert",
+                    "Level": "(Advance)", "Desc":"(Mood)<br>When a survivor moves into a space within the Zone of Death (10x10 centered on the creature), stop their movement. They gain the prority target token.<br>DisCard Alert and perform basic action<br>----------<br>When the monster is knocked down, disCard Alert"
+                },
+                {
+                    "Title": "Ground Fighting",
+                    "Level": "(Advance)",
+                    "Desc":"(Mood)<br>----------<br>The monster flops onto its side, waiting for the attackers to draw near. While ground fighting is in play, do not draw [AI]<br>---------------!----------------<br>When a survivor spends [Action] in the Zone of Death (1x1 Center on the Monster), the monster performs a basic action with a +2 speed and +1 damage, targeting the survivor.<br>---------------!----------------<br>When the white lion is wounded, disCard ground fighting."
+                },
+                {
+                    "Title": "Bloodthirsty",
+                    "Level": "(Advance)",
+                    "Desc":"(Mood)<br>When this comes into play, draw [AI]<br>---------------!----------------<br>When a survivor suffers damage for any reason, place 1 token on Blood thirsty<br>---------------!----------------<br>At the start of each monster turn, if Bloodthirsty has 3+ tokens, remove all tokens and perform basic action."
+                },
+                {
+                    "Title": "Enranged",
+                    "Level": "(Advance)",
+                    "Desc":"Mood<br>----------<br>When this comes into play, draw [AI]<br>---------------!----------------<br>While enraged is in play, white lion gains +1 damage token per monster level.<br>---------------!----------------<br>When a survivor suffers any dismembered severe injury or is killed, disCard enraged"
+                },
+                {
+                    "Title": "Bloody Claw",
+                    "Level": "(Advance)",
+                    "Desc":"Pick Target<br>-Closest survivor with the most bleeding tokens<br>-no target: sniff<br>---------------v----------------<br>Move & Attack Target<br>Spd: 2 | Acc: 2+ | Dam: 2 | * After damage<br>* Bleed 2: Target gains 2 bleeding token<br><br>(CritHit) Lost Hand: The white lion stares sadly at its bloody stump. any adjacent survivors gain +1 understanding."
+                },
+                {
+                    "Title": "Terrifying Roar",
+                    "Level": "(Advance)",
+                    "Desc":"Pick Target<br>-All non-deaf survivors<br>-no target: sniff<br>---------------v----------------<br>Intimidate All Targets<br>Roll 1d10 per target. If the result is 2+ abd is higher than the targets courage, target suffers 1 brain damage per monster level and knockback 6.<br>---------------v----------------<br>Perform basic action, target the furthest survivor in range"
+                },
+                {
+                    "Title": "Maul",
+                    "Level": "(Advance)",
+                    "Desc":"Pick Target<br>-Victim of Grab last round<br>-Closest knocked down survivor, in range<br>No target: sniff<br>---------------v----------------<br>Move & Attack Target<br>Spd: 2 | Acc: 2+ | Dam: 3 | * After damage<br>* Bleed 1: Target gains 1 bleeding token<br>Bash: Target is knocked down<br>"
+                },
+                {
+                    "Title": "Smart Cat",
+                    "Level": "(Advance)",
+                    "Desc":"Reveal the top 10 [AI]. One Card at a time. Put the first two mood Cards revealed into play, then shuffle the deck.<br>---------------v----------------<br>If no mood Cards are put into play as a result of Smart Cat, draw [AI]<br>---------------v----------------<br>Archive Smart Cat."
+                },
+                {
+                    "Title": "Lick Wounds",
+                    "Level": "(Advance)",
+                    "Desc":"If the monster has no wounds in the wound stack, disCard Lick wounds and draw [AI]<br>---------------v----------------<br>Full move the white lion directly away from all survivors. turn to face the closest survivor and heal 1.<br>---------------v----------------<br>Return lick wounds to the top of the monster's Ai Deck."
+                }
+            ],
+            "Legendary":
+            [
+              {
+                "Title": "Vanish",
+                "Level": "(Legendary)",
+                "Desc": "<b>Duration</b><br>When Vanish is drawn face-down, remove the White Lion from the showdown board and remove the <b>priority target</b> token.<br>---------------v----------------<br>While Vanish is face-up on top of the AI deck, a survivor on a space with <b>Tall Grass</b> may spend an action and roll 1d10 to search. On a result of 9+ the monster is found. Place it adjacent to the survivor and discard Vanish.<br>---------------v----------------<br>When Vanish is drawn face-up, target a random survivor and place the White Lion adjacent to them. Target is <b>doomed.</b><br>*Attack Target<br>Spd: 4 | Acc: 2+ | Dam: 2 * <b>After Damage</b><br>* IF the target survives, do the Zero Presence event."
+              },
+              {
+                "Title": "Golden Eyes",
+                "Level": "(Legendary)",
+                "Desc": "<b>Trait</b><br>The White Lion gains +1 speed and +2 accuracy tokens.<br>---------------v----------------<br>When a survivor attacks the monster, they suffer 3 brain damage unless they are in the monster's blind spot.<br>A survivor with 6+ understanding may ignore this brain damage by averting their eyes. If they do, they suffer -4 accuracy when attacking.<br>---------------v----------------<br>If a monster is killed with Golden eyes in play, up to 2 survivors may consume the eyes. Each gains +1 permanent accuracy."
+              }
+            ],
+            "Special":
+            [
+              {
+                "Title": "Cunning",
+                "Level": "(Special)",
+                "Desc": "<b>Trait</b><br>At the end of each monster turn, the monster extends its claws.<br>---------------v----------------<br>If there are any adjacent survivors, target one at random and full move the White Lion directly away from all threats. Target suffers <b>Grab</b>.<br><b>Grab:</b> Place target knocked down in front of the monster. Target suffers 1 damage per monster level."
+              },
+              {
+                "Title": "Merciless",
+                "Level": "(Special)",
+                "Desc": "<b>Trait</b><br>Archive <b>Beast's Paw, Strange Hand, and Straining Neck</b> from the monster hit location deck.<br>Always treat all survivors as threats despite any effects that say otherwise.<br>Double all damage inflicted by <b>Grab</b>"
+              }
+            ]
+        }
+    }
